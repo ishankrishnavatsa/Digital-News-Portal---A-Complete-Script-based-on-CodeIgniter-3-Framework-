@@ -1,0 +1,2 @@
+# Digital-News-Portal---A-Complete-Script-based-on-CodeIgniter-3-Framework-
+Digital News Portal is a lightweight and efficient CMS built using the PHP CodeIgniter 3 framework. It provides an intuitive and powerful admin dashboard with features tailored for modern digital news portals. Designed to offer a familiar experience similar to WordPress, this portal simplifies content management while being highly customizable.
